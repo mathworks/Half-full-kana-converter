@@ -21,3 +21,4 @@ ans = '私はﾀﾏｺﾞとｽﾑｰｼﾞｰとﾌﾟﾘﾝを朝ごはんに�
 ```
 
 Copyright 2019 The MathWorks, Inc.
+[![View Half-full kana converter (半角・全角カナ変換) on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://jp.mathworks.com/matlabcentral/fileexchange/71610-half-full-kana-converter)
