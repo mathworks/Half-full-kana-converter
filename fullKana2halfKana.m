@@ -5,7 +5,8 @@ function halfKanaString = fullKana2halfKana(fullKanaString)
 halfKana = split("ｱｲｳｴｵｶｷｸｹｺｻｼｽｾｿﾀﾁﾂﾃﾄﾅﾆﾇﾈﾉﾊﾋﾌﾍﾎﾏﾐﾑﾒﾓﾔﾕﾖﾗﾘﾙﾚﾛﾜｦﾝｰ","");
 fullKana = split("アイウエオカキクケコサシスセソ" + ...
              "タチツテトナニヌネノハヒフヘホ" + ...
-             "マミムメモヤユヨラリルレロワヲンー","");
+             "マミムメモヤユヨラリルレロワヲンー" + ...
+             "０１２３４５６７８９","");
          
 halfKanaDakuon = split("ｶｷｸｹｺｻｼｽｾｿﾀﾁﾂﾃﾄﾊﾋﾌﾍﾎ",{'',' '}) + "ﾞ";
 fullKanaDakuon = split("ガギグゲゴザジズゼゾダヂヅデドバビブベボ","");
